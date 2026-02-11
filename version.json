@@ -1,5 +1,19 @@
 {
-  "version": "2.1.0",
-  "url": "https://drive.google.com/drive/folders/19tGa1O6Q64sFZPb_neA0fpOCcXhWiA7X?usp=sharing", 
-  "message": "New update available!"
+  "version": "2.2.0",
+  "url": "https://drive.google.com/drive/folders/1a7OAXBFjEPk2Tr6Jek9F2_GdyWkVW0Pf?usp=sharing", 
+  "message": "Attendance Update
+
+Auto-Marking: Students are automatically marked "Present" in the register for the current day when they either join a game room or claim their Daily XP Bonus.
+
+Real-Time Sync: The teacher's attendance dashboard now polls the server every few seconds, updating the list and statistics bars instantly as students log in, without needing a page refresh.
+
+Reporting: Added date range filters to generate PDF Matrix reports or CSV exports for specific periods (e.g., monthly) or specific sections.
+
+Review Lock
+
+Teacher Control: A new "Allow Student Review" checkbox in the Game Setup modal (default: OFF).
+
+Data Security: When disabled, the server does not send the answer key or full question list to student devices after the game ends, preventing answer leakage.
+
+Student UI: The "Review Answers" button is hidden and replaced with a "Review Disabled" message on the student's result screen if the teacher has not granted permission."
 }
