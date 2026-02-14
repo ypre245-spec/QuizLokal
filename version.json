@@ -1,26 +1,5 @@
 {
-    "version": "2.3.0",
-    "release_date": "2026-02-14",
-    "developer": "David Jess F. Asauro",
-    "url": "https://drive.google.com/file/d/1I6we8pXiST3C_tR7DFu3TXQQOYiyWfbZ/view?usp=sharing",
-    "changes": [
-      {
-        "id": 1,
-        "type": "feature",
-        "title": "Attendance & Review Lock",
-        "description": "Added a dedicated Attendance Tab and new Review Lock options for improved session control."
-      },
-      {
-        "id": 2,
-        "type": "fix",
-        "title": "iOS Connectivity",
-        "description": "Resolved an issue where iOS devices were unable to connect to the local server."
-      },
-      {
-        "id": 3,
-        "type": "improvement",
-        "title": "Attendance Automation",
-        "description": "Students who claim EXP are now automatically marked as 'Present' in the attendance system."
-      }
-    ]
-  }
+  "version": "2.3.0",
+  "url": "https://drive.google.com/file/d/1I6we8pXiST3C_tR7DFu3TXQQOYiyWfbZ/view?usp=sharing",
+  "message": "✨ What's New in v2.3.0:\n• Added an Attendance Tab and Review Lock options.\n• Fixed a bug preventing iOS devices from connecting.\n• Automated attendance: Students claiming EXP are now marked as 'Present'."
+}
