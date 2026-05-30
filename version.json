@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "url": "https://drive.google.com/file/d/1I6we8pXiST3C_tR7DFu3TXQQOYiyWfbZ/view?usp=sharing",
   "message": "✨ What's New in v2.3.0:\n• Added an Attendance Tab and Review Lock options.\n• Fixed a bug preventing iOS devices from connecting.\n• Automated attendance: Students claiming EXP are now marked as 'Present'."
 }
